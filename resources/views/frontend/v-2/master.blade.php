@@ -7,6 +7,7 @@
     <title>@yield('title') | {{env('APP_NAME')}}</title>
     <link rel="icon" href="{{asset('setting/'.$setting->logo)}}"/>
     <meta name="facebook-domain-verification" content="9kolwgirfghfrun5zxq2lkqsrvijtp"/>
+    
     <!-- Pavicon ICon -->
     @include('frontend.v-2.includes.style')
 <!-- Google Tag Manager -->
